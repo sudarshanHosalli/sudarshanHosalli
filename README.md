@@ -1,6 +1,6 @@
 # Hi there, I'm Sudarshan H! 👋
 
-![Profile Banner](https://your-banner-url.com)
+![Header](./github-header-image.png)
 
 I’m a passionate developer with a focus on fullstack web development and a knack for building scalable and efficient applications. Currently honing my skills in JavaScript, data structures, and algorithms, while diving into deployment strategies for web applications.
 
